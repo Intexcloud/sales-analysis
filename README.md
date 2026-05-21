@@ -20,7 +20,6 @@ This repository contains an automated end-to-end data pipeline built for a retai
    - Outputs a multi-sheet `.xlsx` file designed as a semantic layer for Power BI.
 
 ## 📊 Executive Dashboard Preview
-*(Upload the `dashboard.png` from your output folder here)*
 ![Dashboard Preview](output/dashboard.png)
 
 ## 💡 Key Business Insights
